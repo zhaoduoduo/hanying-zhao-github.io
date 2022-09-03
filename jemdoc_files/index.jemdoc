@@ -1,0 +1,22 @@
+# jemdoc: nofooter
+# jemdoc: menu{MENU}{index.html}
+
+~~~
+{}{img_left}{./images/E3.JPG}{}{90%}{}{}
+~~~
+
+
+== Welcome
+I am a Post-Doctoral Researcher at the Department of Electronic Engineering at Tsinghua University, adviced by Professor [http://nicsefc.ee.tsinghua.edu.cn/ Yu Wang] and Professor [http://oa.ee.tsinghua.edu.cn/~shenyuan/ Yuan Shen].  I obtained my Ph.D. degree from Department of Electronic Engineering at Tsinghua University in 2021, adviced by Professor [http://oa.ee.tsinghua.edu.cn/~shenyuan/ Yuan Shen]. Prior to that, I received my B.E. degree in Information Engineering from Xidian University in 2016.
+
+My research interests include statiscal inference, optimization, and information theory. Specifically, I am interested in the following topics: /signal processing, network localization, and multi-agent systems/.
+
+# == News
+# 06/2022: Our work on network localization using Tensor models is accepted by TWC. 
+
+
+
+
+#~~~
+#{}{img_left}{./images/info.png}{info pic}{100%}{}{}
+#~~~

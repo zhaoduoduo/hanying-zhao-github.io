@@ -1,0 +1,32 @@
+# jemdoc: nofooter
+# jemdoc: menu{MENU}{profile.html}
+
+~~~
+{}{img_left}{./images/zhy_22.jpg}{profile pic}{200px}{280px}{}
+= Hanying Zhao \n
+
+=== Post-Doctoral Researcher
+=== [https://www.ee.tsinghua.edu.cn/ Department of Electronic Engineering]\n
+=== Tsinghua University\n
+
+=== E-mail: [hying_zhao@tsinghua.edu.cn]
+=== [https://scholar.google.com.hk/citations?hl=zh-CN&user=ENZdM58AAAAJ //Google Scholar] \n
+
+~~~
+
+== Welcome
+I am a Post-Doctoral Researcher at the Department of Electronic Engineering at Tsinghua University, adviced by Professor [http://nicsefc.ee.tsinghua.edu.cn/ Yu Wang] and Professor [http://oa.ee.tsinghua.edu.cn/~shenyuan/ Yuan Shen]. I obtained my Ph.D. degree from Department of Electronic Engineering at Tsinghua University in 2021, adviced by Professor [http://oa.ee.tsinghua.edu.cn/~shenyuan/ Yuan Shen]. Prior to that, I received my B.E. degree in Information Engineering from Xidian University in 2016.
+
+My research interests include statiscal inference, optimization, and information theory. Specifically, I am interested in the following topics: /signal processing, network localization, and multi-agent systems/.
+
+== News
+- \[06/2022\] Our work on network localization using Tensor models is accepted by TWC. 
+- \[04/2022\] Our work on signal-multiplexing ranging for integrated localization and sensing is accepted by WCL. 
+
+
+== Contact
+#Rohm Building\n
+Department of Electronic Engineering \n
+Beijing, 100084 China \n
+E-mail: [hying_zhao@tsinghua.edu.cn] \n
+#Web:  

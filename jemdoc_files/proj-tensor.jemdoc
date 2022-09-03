@@ -1,0 +1,28 @@
+# jemdoc: nofooter
+# jemdoc: menu{MENU}{proj-tensor.html}
+= Tensor-Aided Multipath Estimation
+/An effective multipath estimation method via spatio-temporal feature tensorization/
+
+== Abstract
+~~~
+{}{img_left}{./images/Loc_mul.pdf}{}{300px}{}{}
+Realizing high-accuracy positioning faces tremendous challenges, where the multipath effect is one of the most influential factors. We propose a tensor-based algorithmic framework for localization in multipath environments, which achieves superior performance with low computational complexity. Specifically, we construct low-rank tensors to characterize sparse spatio-temporal features and separate coherent multipath signals hinging on the uniqueness of tensor decomposition. Compared with related works, our method does not rely on array configurations or signal structures, revealing its potential for broad use in multipath estimation. 
+~~~
+
+
+== Highlight
+- Propose a tensorization method by exploiting sparse spatio-temporal features of the received waveforms, which does not rely on array configurations or signal structures. 
+- Develop position-related parameter estimation methods free of data association and high-dimensional grid search.
+~~~
+{}{img_left}{./images/tensorization.pdf}{}{60%}{}{}
+~~~
+
+
+
+== Paper
+. *H. Zhao*, M. Huang, and Y. Shen, "High-accuracy localization in multipath environments via spatio-temporal feature tensorization," /IEEE Trans. Wireless Commun./, To Appear.
+. Y. Gong, *H. Zhao*, K. Hu, Q. Lu, and Y. Shen, “A multipath-aided localization method for MIMO-OFDM system via tensor decomposition,” /IEEE Wireless Commun. Lett./, vol. 11, no. 6, pp. 1225-1228, Jun. 2022.
+. M. Huang, *H. Zhao*, and Y. Shen, “A multipath estimation method via block term decomposition for multi-carrier systems,” in /Proc. IEEE Global Commun. Conf./, Madrid, Spain, Dec. 2021, pp. 1–6.
+. *H. Zhao*, Y. Gong, and Y. Shen, “A multipath separation method for network localization via tensor decomposition,” in /Proc. IEEE Int. Conf. Commun./, Montreal, Canada, Jun. 2021, pp. 1–6.
+
+

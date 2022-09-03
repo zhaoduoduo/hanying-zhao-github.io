@@ -1,0 +1,36 @@
+Hanying Zhao
+#    About                               [index.html]
+    Home                                [profile.html]
+    Education                           [edu.html]
+
+#    Group Page                          [group.html]
+
+Research
+    Publications                        [pub.html]
+    Signal Dimension Reduciton          [proj-sdr.html]
+    Tensor-Aided Multipath Estimation   [proj-tensor.html]
+    Signal-Multiplexing Network Measuring [proj-smnr.html]
+
+
+#User's guide
+#    running jemdoc                      [using.html]
+#    example page                        [example.html]
+#    example page (no menu)              [nomenu.html]
+#    cheat sheet                         [cheatsheet.html]
+#    extra syntax                        [extra.html]
+
+#Configuration
+#    html changes                        [htmlchanges.html]
+#    adding a menu                       [menu.html]
+#    modelines                           [modelines.html]
+
+#Goodies
+#    vim, make                           [stuff.html]
+#    latex equations                     [latex.html]
+#    tables                              [tables.html]
+
+#Additional Features
+#    MathJax                             [mathjax.html]
+#    Underscore                          [underscore.html]
+#    Link                                [link.html]
+#    Open in New Tab                     [\http://www.google.com]

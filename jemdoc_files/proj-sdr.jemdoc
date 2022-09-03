@@ -1,0 +1,25 @@
+# jemdoc: nofooter
+# jemdoc: menu{MENU}{proj-sdr.html}
+= Array Signal Dimension Reduction
+/High-dimensional array signals can be represented in a low-dimensional subspace without Fisher information loss/
+
+
+== Abstract
+~~~
+{}{img_left}{./images/array_system.png}{}{300px}{}{}
+Large-scale array systems create opportunities of providing centimeter-level location awareness. Despite their promise, the communication overhead and the computational complexities grow linearly and cubically as the number of antennas increases, which will occupy large amounts of time-frequency resources, incur long latency, and fail to meet real-time requirements. As a solution, we *establish a general framework of array signal dimension reduction* for network localization and sensing, which sheds light on high-accuracy localization with limited resource consumption. 
+~~~
+#  and smart-architecture applications such as the Internet of Things
+
+== Highlight
+- Prove that high-dimensional array signals can be represented in a low-dimensional subspace *without Fisher information loss*.
+- Present the closed-form expressions of such lossless array dimension reduction methods.
+
+== Paper
+. *H. Zhao*, N. Zhang, and Y. Shen, "Beamspace direct localization for large-scale antenna array systems," /IEEE Trans. Signal Process./, vol. 68, pp. 3529–3544, May 2020.
+. Y. Li, *H. Zhao*, D. Sun, and Y. Shen, “On the lossless array signal dimension reduction for dynamic localization systems,” in /Proc. IEEE Int. Conf. Commun./, Seoul, South Korea, May 2022, pp. 1–6.
+. Y. Li, *H. Zhao*, and Y. Shen, “A spatio-temporal signal dimension reduction method for integrated localization and sensing,” in /Proc. IEEE Mediterranean Electrotechnical Conf./, Palermo, Italy, Jun. 2022, pp. 1–5.
+. *H. Zhao*, N. Zhang, J. Wang, and Y. Shen, “Signal dimension reduction for array localization systems in multipath environments,” in /Proc. IEEE Int. Conf. Commun./, Dublin, Ireland, Jun. 2020, pp. 1–6.
+. *H. Zhao*, N. Zhang, and Y. Shen, “Robust beamspace design for direct localization,” in /Proc. IEEE Int. Conf. Acoust., Speech and Signal Process./, Brighton, UK, May 2019, pp. 1–5.
+. *H. Zhao*, L. Zhang, and Y. Shen, “On the optimal beamspace design for direct localization systems,” in /Proc. IEEE Int. Conf. Commun./, Kansas City, MO, USA, May 2018, pp. 1–6.
+

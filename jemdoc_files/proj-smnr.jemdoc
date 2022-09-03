@@ -1,0 +1,54 @@
+# jemdoc: nofooter
+# jemdoc: menu{MENU}{proj-smnr.html}
+= Signal-Multiplexing Network Measuring
+/An efficient wireless measuring scheme for multi-agent systems/
+
+
+
+
+#{{
+#<div class="row">
+#  <div class="control-inline">
+#    <img src="images/large-scale.png" style="width:400px" !important>
+#  </div>
+#  <div class="control-inline">
+#    <img src="images/Signal_multiplexing.pdf" style="width:400px" !important>
+#  </div>
+#</div>
+#}}
+
+
+== Abstract
+~~~
+{}{img_left}{./images/large-scale.png}{}{300px}{}{}
+The Internet of Things (IoT) is envisioned to significantly change the way we live and work, in which thousands of intelligent computers, devices, sensors, and objects interconnect for the foreseeable future. Real-time high-precision localization is a core technology of such cyber-physical systems, whereas popular GPS systems always fail, especially in indoor environments. Network localization owns the merits of low-cost and flexible coverage and is a promising alternative. We present a new distributed network localization paradigm, which requires a minimum of signals but achieves optimal performance.
+~~~ 
+
+#  Devise a *signal-multiplexing wireless measuring scheme* for large-scale networks, which can measure all node-pair distances with a minimum number of signal transmissions, where the communication overhead is reduced from $\mathcal{O}(N^2)$ to $N+1$  for an $N$-node network. Experimental and simulation results show that the proposed method can achieve centimeter-level ranging accuracy under the severe effect of clock errors. The popular two-way ranging methods for clock drift mitigation are effective, of which communication overhead is $\mathcal{O}(N^2)$ for a $N$-node network. 
+
+
+== Highlight
+- Devise a *signal-multiplexing network measuring scheme*, which can measure all node-pair distances with a minimum number of signal transmissions. In this way, the signal overhead is reduced from $\mathcal{O}(N^2)$ to $N+1$  for a $N$-node network.
+
+
+
+== Paper
+. Z. Zhang$^\dagger$, *H. Zhao*$^\dagger$, J. Wang, and Y. Shen, “Signal-multiplexing ranging for network localization,” /IEEE Trans. Wireless Commun./, vol. 21, no. 3, pp. 1694–1709, Mar. 2022. 
+. *H. Zhao*, Z. Zhang, Z. Zhang, and Y. Shen, "A signal-multiplexing ranging scheme for integrated localization and sensing," /IEEE Wireless Commun. Lett./, vol. 11, no. 8, pp. 1609-1613, Aug. 2022.
+. Z. Zhang, *H. Zhao*, and Y. Shen, “High-efficient ranging algorithms for wireless sensor network,” in /Proc. Int. Conf. on Wireless Commun. and Signal Process./, Xi’an, China, Oct. 2019, pp. 1–6.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

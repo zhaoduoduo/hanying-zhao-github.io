@@ -1,0 +1,59 @@
+# jemdoc: nofooter
+# jemdoc: menu{MENU}{pub.html}
+
+== Interests
+Theory: statistical inference, optimization, information theory \n
+Topic: network localization, multi-agent systems, signal processing \n
+
+
+
+
+
+== Publications
+
+=== Journal Papers
+. *H. Zhao*, M. Huang, and Y. Shen, "High-accuracy localization in multipath environments via spatio-temporal feature tensorization," /IEEE Trans. Wireless Commun./, To Appear.
+. *H. Zhao*, Z. Zhang, Z. Zhang, and Y. Shen, "A signal-multiplexing ranging scheme for integrated localization and sensing," /IEEE Wireless Commun. Lett./, vol. 11, no. 8, pp. 1609-1613, Aug. 2022.
+. Z. Zhang$^\dagger$, *H. Zhao*$^\dagger$, J. Wang, and Y. Shen, “Signal-multiplexing ranging for network localization,” /IEEE Trans. Wireless Commun./, vol. 21, no. 3, pp. 1694–1709, Mar. 2022. 
+. *H. Zhao*, N. Zhang, and Y. Shen, "Beamspace direct localization for large-scale antenna array systems," /IEEE Trans. Signal Process./, vol. 68, pp. 3529–3544, May 2020.
+. Y. Gong, *H. Zhao*, K. Hu, Q. Lu, and Y. Shen, “A multipath-aided localization method for MIMO-OFDM system via tensor decomposition,” /IEEE Wireless Commun. Lett./, vol. 11, no. 6, pp. 1225-1228, Jun. 2022.
+. T. Wang, *H. Zhao*, and Y. Shen, “An efficient single-anchor localization method using ultra-wide bandwidth systems,” /Appl. Sci./, vol. 10, no. 1, p. 57, Jan. 2020.
+
+=== Conference Papers
+. Y. Li, *H. Zhao*, D. Sun, and Y. Shen, “On the lossless array signal dimension reduction for dynamic localization systems,” in /Proc. IEEE Int. Conf. Commun./, Seoul, South Korea, May 2022, pp. 1–6.
+. Y. Li, *H. Zhao*, and Y. Shen, “A spatio-temporal signal dimension reduction method for integrated localization and sensing,” in /Proc. IEEE Mediterranean Electrotechnical Conf./, Palermo, Italy, Jun. 2022, pp. 1–5.
+. M. Huang, *H. Zhao*, and Y. Shen, “A multipath estimation method via block term decomposition for multi-carrier systems,” in /Proc. IEEE Global Commun. Conf./, Madrid, Spain, Dec. 2021, pp. 1–6.
+. *H. Zhao*, Y. Gong, and Y. Shen, “A multipath separation method for network localization via tensor decomposition,” in /Proc. IEEE Int. Conf. Commun./, Montreal, Canada, Jun. 2021, pp. 1–6.
+. *H. Zhao*, N. Zhang, J. Wang, and Y. Shen, “Signal dimension reduction for array localization systems in multipath environments,” in /Proc. IEEE Int. Conf. Commun./, Dublin, Ireland, Jun. 2020, pp. 1–6.
+. Z. Zhang, *H. Zhao*, and Y. Shen, “High-efficient ranging algorithms for wireless sensor network,” in /Proc. Int. Conf. on Wireless Commun. and Signal Process./, Xi’an, China, Oct. 2019, pp. 1–6.
+. T. Wang, *H. Zhao*, and Y. Shen, “High-accuracy localization using single-anchor ultra-wide bandwidth systems,” in /Proc. IEEE Int. Conf. Commun. in China/, Changchun, China, Aug. 2019, pp. 1–5.
+. *H. Zhao*, N. Zhang, and Y. Shen, “Robust beamspace design for direct localization,” in /Proc. IEEE Int. Conf. Acoust., Speech and Signal Process./, Brighton, UK, May 2019, pp. 1–5.
+. *H. Zhao*, L. Zhang, and Y. Shen, “On the optimal beamspace design for direct localization systems,” in /Proc. IEEE Int. Conf. Commun./, Kansas City, MO, USA, May 2018, pp. 1–6.
+
+
+#See more about [proj-smnr.html SM-NR].
+#{{
+#<div class="row">
+#  <div class="column">
+#    <img src="images/groups/outing/wedding.png" style="width:100%">
+#    <img src="images/groups/outing/rocks.png" style="width:100%">
+#    <img src="images/groups/outing/falls2.png" style="width:100%">
+#  </div>
+#  <div class="column">
+#    <img src="images/groups/outing/underwater.png" style="width:100%">
+#    <img src="images/groups/outing/ocean.png" style="width:100%">
+#    <img src="images/groups/outing/wedding.png" style="width:100%">
+#    <img src="images/groups/outing/mountainskies.png" style="width:100%">
+#  </div>
+#  <div class="column">
+#    <img src="images/groups/outing/paris.png" style="width:100%">
+#    <img src="images/groups/outing/nature.png" style="width:100%">
+#    <img src="images/groups/outing/mist.png" style="width:100%">
+#    <img src="images/groups/outing/paris.png" style="width:100%">
+#  </div>
+#  <div class="column">
+#    <img src="images/groups/outing/rocks.png" style="width:100%">
+#    <img src="images/groups/outing/underwater.png" style="width:100%">
+#    <img src="images/groups/outing/ocean.png" style="width:100%">
+#  </div>
+#</div>
